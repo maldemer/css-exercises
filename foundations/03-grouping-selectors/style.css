@@ -1,0 +1,15 @@
+/*results obtained by following*/
+.plain {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.smart {
+    background-color: #ffff00;
+}
+
+.plain,
+.smart {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
